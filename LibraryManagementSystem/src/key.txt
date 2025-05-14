@@ -1,1 +1,3 @@
+use this command in termina in src folder
+
 java -cp ".;lib/mysql-connector-j-9.3.0.jar" ui.LoginFrame
